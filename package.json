@@ -1,7 +1,7 @@
 {
   "name": "portfolio_site",
   "version": "0.0.0",
-  "homepage": "git@github.com:edelRitter/vue_portfolio",
+  "homepage": "https://edelritter.github.io/vue_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
