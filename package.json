@@ -4,8 +4,7 @@
   "homepage": "https://edelritter.github.io/vue_portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "deploy": "gh-pages -d build"
+    "build": "vite build"
   },
   "dependencies": {
     "aos": "^2.3.4",
